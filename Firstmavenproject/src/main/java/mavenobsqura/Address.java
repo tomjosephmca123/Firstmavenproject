@@ -9,7 +9,7 @@ public class Address {
 		this.city = city;
 		this.state = state;
 		this.country = country;
-		this.zip = zip;
+		this.zip = zip;//this
 	}
 
 	public static void main(String[] args) {
