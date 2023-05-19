@@ -8,7 +8,7 @@ public class Address {
 		super();
 		this.city = city;
 		this.state = state;
-		this.country = country;
+		this.country = country;//this
 		this.zip = zip;//this
 	}
 

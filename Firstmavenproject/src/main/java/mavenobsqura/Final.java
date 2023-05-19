@@ -8,7 +8,7 @@ final public class Final {
 
 	}
 	final public void setId() {
-		id=100;
+		//id=100;
 	}
 
 }
