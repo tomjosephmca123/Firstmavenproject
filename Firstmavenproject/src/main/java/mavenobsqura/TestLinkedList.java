@@ -14,10 +14,10 @@ public class TestLinkedList {
 		ll.add("elephant");
 		ll.add(0,"cat");
 		ll.add("lion");
-		//Iterator itr=ll.iterator();
-		//while(itr.hasNext()) {
-			//System.out.println(itr.next());
-		//}
+		Iterator itr=ll.iterator();
+		while(itr.hasNext()) {
+			System.out.println(itr.next());
+		}
 		for(String a:ll) {
 			System.out.println(a);
 		}
